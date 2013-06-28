@@ -1,0 +1,18 @@
+Shell mini project by G.Anirudh Ruia - 160110733091 - CSE-2(3/4)
+
+Requirements for compilation
+1.GNU GCC compiler.
+
+steps for execution on linux
+1.open terminal(ctrl+t)
+2.go to src folder
+3.compile the code- cc -o shell shell.c shellparser.c
+4.execute it- ./shell
+
+steps for execution in cbit-labs(on Windows XP)
+1.use WinSCP software to transfer the files to the server
+2.login to the server with username and password
+3.go to src folder
+4.compile the code- cc -o shell shell.c shellparser.c
+5.execute it- ./shell
+  
